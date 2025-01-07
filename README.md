@@ -46,7 +46,11 @@ Enhanced handling of class imbalance
 Team 👥
 
 Chandini Karrothu
+
 Likhitha Marrapu
+
 Subhasmita Maharana
+
 Mukthasree Vengoti
+
 Pallavi Padam
