@@ -1,6 +1,7 @@
 Twitter Sentiment Analysis 🐦
 
 Overview 📊
+
 A comprehensive study on Twitter sentiment classification using machine learning approaches. The project analyzes tweets to classify them as positive or negative, utilizing the Sentiment140 dataset containing 1.6 million tweets.
 
 Key Features 🔑
